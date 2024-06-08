@@ -6,7 +6,7 @@
   <link href="http://lambert.wang/atom.xml" rel="self"/>
   
   <link href="http://lambert.wang/"/>
-  <updated>2024-06-02T02:14:22.765Z</updated>
+  <updated>2024-06-08T22:17:31.628Z</updated>
   <id>http://lambert.wang/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Twisted Me</title>
+    <link href="http://lambert.wang/2024/06/09/20240609-TwistedMe/"/>
+    <id>http://lambert.wang/2024/06/09/20240609-TwistedMe/</id>
+    <published>2024-06-09T02:00:00.000Z</published>
+    <updated>2024-06-08T22:17:31.628Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，这个密码看着不太对，请再试试。" data-whm="抱歉，这个文章不能被纠正，不过您还是能看看解密后的内容。">  <script id="hbeData" type="hbeData" data-hmacdigest="feee2d776f09f2e1160d021ed7b3c7e514abec18479bc8d0318cbdf5d33d748e">8f3e58dc4762fabe4b7a324b67d635aab60949e88fe49883de468747b19bc640cdd281fad5783d83d27720e666b0755eb94df0903011e15420d0943ae9a6a01a3515c54d12da8ab1a0346711e196abd1f9a3fb30ea8a56e34e6e2f86549e25713f8b669d95965f2e4c2c9b79acc569828de529a69016424068b9d7eac6d5b49a9cf05e41aea83d36518839ceb8b46a2c5475fb57957e8ca89f5e32664f767ae3f9b04e3b02e7bd65a34c7e99315ca288c76d191c49ace2a02b5b600a338952604a524505b57cbe202c8df22f56516090d6b62308abd683fa3b783265eeaad2a7c758de3f52768edac8d2a00a16242c3a85d3924a60053b1a21cbcc0302014ebd7fc2a13f6f8ba7949112b1d25a43d57ddaa21d28fb4b1b96fe5aff592fc2dc9ec758c5365988ca984b26509d63311e262b106aa1e4baf93508d14a6d1f6338fb94f5eb9f5aa8d975b3f39b5962fa7729fafbef68bc830ee93c51b2fdd33930291961e5a70e0461c2e38353c7a0d1f0665aa73c221e5f328613304fc7d6f45faf1cd840bbe50a733ec742b1db7d85f21bef4f26306936839048e763159a4985f4ffbc6677386b21a8d6389cf611b2bea5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好，这里需要密码。</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">这里有东西被加密了，需要输入密码查看哦。</summary>
+    
+    
+    
+    <category term="Life" scheme="http://lambert.wang/categories/Life/"/>
+    
+    
+    <category term="Life" scheme="http://lambert.wang/tags/Life/"/>
+    
+  </entry>
   
   <entry>
     <title>拳击</title>
