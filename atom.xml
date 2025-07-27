@@ -6,7 +6,7 @@
   <link href="http://lambert.wang/atom.xml" rel="self"/>
   
   <link href="http://lambert.wang/"/>
-  <updated>2025-07-20T07:35:27.110Z</updated>
+  <updated>2025-07-27T08:31:48.710Z</updated>
   <id>http://lambert.wang/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://lambert.wang/2025/07/27/20250727-Juan/"/>
+    <id>http://lambert.wang/2025/07/27/20250727-Juan/</id>
+    <published>2025-07-27T08:11:00.000Z</published>
+    <updated>2025-07-27T08:31:48.710Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是一个季度。这段时间，陷入了深深的焦虑中，还有逃避：</p><ul><li>对工作的担忧</li><li>对未来的迷茫</li><li>如此种种</li></ul><p>人是群居动物。一个人工作，一个人锻炼，一个人吃饭，一个人打游戏太久了，都已经成了生活的常态，甚至一向心理健康的自己都诊断成了轻度抑郁，好在这段时间有做心态调整。</p><p>时代变化得真快，毕业时打死也想不到现在可以让 AI 帮忙写代码。而如今，每天睁眼看到的 AI，都是未来最差的 AI。</p><p>国内实在太卷，周末来到高新区图书馆，连可以坐下的位置都找不到。</p><p>生活还是老样子，不想走一步瞧一步，又好像无能为力。</p><p>还没出去旅行，又不知道去哪里。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;又是一个季度。这段时间，陷入了深深的焦虑中，还有逃避：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对工作的担忧&lt;/li&gt;
+&lt;li&gt;对未来的迷茫&lt;/li&gt;
+&lt;li&gt;如此种种&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;人是群居动物。一个人工作，一个人锻炼，一个人吃饭，一个人打游戏太久了，都已经成了生活的常态</summary>
+      
+    
+    
+    
+    <category term="Life" scheme="http://lambert.wang/categories/Life/"/>
+    
+    
+    <category term="Life" scheme="http://lambert.wang/tags/Life/"/>
+    
+  </entry>
   
   <entry>
     <title>冒个泡</title>
@@ -524,31 +554,6 @@
     <category term="英语" scheme="http://lambert.wang/tags/%E8%8B%B1%E8%AF%AD/"/>
     
     <category term="English" scheme="http://lambert.wang/tags/English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://lambert.wang/2021/10/12/20211012-Hello-World/"/>
-    <id>http://lambert.wang/2021/10/12/20211012-Hello-World/</id>
-    <published>2021-10-12T15:36:25.000Z</published>
-    <updated>2025-07-20T07:35:27.109Z</updated>
-    
-    <content type="html"><![CDATA[<p>So I applied the new domain name <strong>lambert.wang</strong>. This is just a greeting post.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;So I applied the new domain name &lt;strong&gt;lambert.wang&lt;/strong&gt;. This is just a greeting post.&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Life" scheme="http://lambert.wang/categories/Life/"/>
-    
-    
-    <category term="Life" scheme="http://lambert.wang/tags/Life/"/>
     
   </entry>
   
