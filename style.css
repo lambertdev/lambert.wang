@@ -57,11 +57,7 @@ body {
   height: 88px;
   margin: 0 auto 16px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #4a7dbe 0%, #7bb0e3 100%);
-  color: #fff;
-  font-size: 40px;
-  font-weight: 700;
-  line-height: 88px;
+  object-fit: cover;
   user-select: none;
 }
 
