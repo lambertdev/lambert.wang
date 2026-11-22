@@ -56,16 +56,38 @@
 
     <section class="card">
       <h2>近期文章</h2>
+      <!-- 近期文章 = topics/blog/ 中 status: public 的最新 5 篇，由 scripts/content/build-portal.sh 生成（A26），勿手改 -->
       <ul class="featured">
+        <!-- PORTAL:FEATURED:START -->
+        <li><a href="https://blog.lambert.wang/2026/11/22/2026-11-22-midlife-anxiety-and-ai-anxiety/"><span class="title">我的中年 + AI 焦虑</span><time>2026-11-22</time></a></li>
+        <li><a href="https://blog.lambert.wang/2025/11/23/20251123-Apart/"><span class="title">分离的碎碎念</span><time>2025-11-23</time></a></li>
         <li><a href="https://blog.lambert.wang/2025/07/27/20250727-Juan/"><span class="title">卷和碎碎念</span><time>2025-07-27</time></a></li>
-        <li><a href="https://blog.lambert.wang/2025/01/11/20250111-think-read/"><span class="title">一些思考</span><time>2025-01-11</time></a></li>
-        <li><a href="https://blog.lambert.wang/2025/01/01/20250101-changlizhi/"><span class="title">常立志</span><time>2025-01-01</time></a></li>
-        <li><a href="https://blog.lambert.wang/2024/05/11/20240511-Born-to-Seperate/"><span class="title">分离</span><time>2024-05-11</time></a></li>
-        <li><a href="https://blog.lambert.wang/2022/06/25/20220625-life-is-bitter/"><span class="title">万物皆苦</span><time>2022-06-25</time></a></li>
+        <li><a href="https://blog.lambert.wang/2025/04/04/20250404-maopao/"><span class="title">冒个泡</span><time>2025-04-04</time></a></li>
+        <li><a href="https://blog.lambert.wang/2025/01/29/20250129-happy-CNY/"><span class="title">蛇年快乐</span><time>2025-01-29</time></a></li>
+        <!-- PORTAL:FEATURED:END -->
       </ul>
     </section>
 
+    <section class="card" id="today-quote" hidden>
+      <h2>今日一句</h2>
+      <ul class="featured quote-list" hidden>
+        <li><a class="quote-link" rel="noopener"><span class="title"></span><time></time></a></li>
+      </ul>
+    </section>
+
+    <section class="card" id="post-draw">
+      <div class="card-head">
+        <h2>抽一篇我写的</h2>
+        <button class="draw-button" type="button" hidden>抽一篇</button>
+      </div>
+      <ul class="featured draw-list" hidden>
+        <li><a class="draw-link" rel="noopener"><span class="title"></span><time></time></a></li>
+      </ul>
+      <p class="widget-fallback">全部文章：<a href="https://blog.lambert.wang/">博客</a> · <a href="https://reader.lambert.wang/">读书笔记</a></p>
+    </section>
+
   </main>
-  <footer>© 2025 - 2026 Lambert Wang</footer>
+  <script src="home.js" defer></script>
+  <footer>© 2025 - <!-- PORTAL:YEAR:START -->2026<!-- PORTAL:YEAR:END --> Lambert Wang</footer>
 </body>
 </html>

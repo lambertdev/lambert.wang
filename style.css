@@ -16,6 +16,10 @@
   box-sizing: border-box;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 body {
   background: var(--bg);
   color: var(--text);
@@ -174,6 +178,65 @@ body {
   font-size: 13px;
   flex-shrink: 0;
   font-variant-numeric: tabular-nums;
+}
+
+/* homepage widgets (A26) — deliberately reuse the .featured row language, so
+   「今日一句」/「抽一篇我写的」read as the same kind of clickable list item as
+   近期文章; only the affordance-specific pieces live here. */
+.card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.card-head h2 {
+  margin-bottom: 0;
+}
+
+/* a quote wraps, so let its attribution sit under it instead of crowding
+   the first line; the row keeps every other .featured affordance */
+.quote-list a {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.quote-list .title {
+  line-height: 1.6;
+}
+
+.draw-button {
+  font: inherit;
+  font-size: 13px;
+  padding: 5px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--accent);
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.draw-button:hover,
+.draw-button:focus-visible {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.widget-fallback {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.widget-fallback a {
+  color: var(--accent);
+  text-decoration: none;
 }
 
 footer {
