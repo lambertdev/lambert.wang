@@ -1,0 +1,46 @@
+{
+  "links": [
+    {
+      "a": "https://blog.lambert.wang/2025/01/01/20250101-changlizhi/",
+      "b": "https://blog.lambert.wang/2025/01/11/20250111-think-read/",
+      "w": 3.0,
+      "kind": "both"
+    },
+    {
+      "a": "https://blog.lambert.wang/2025/01/01/20250101-changlizhi/",
+      "b": "https://blog.lambert.wang/2025/04/04/20250404-maopao/",
+      "w": 3.0,
+      "kind": "both"
+    },
+    {
+      "a": "https://blog.lambert.wang/2025/01/11/20250111-think-read/",
+      "b": "https://blog.lambert.wang/2025/04/04/20250404-maopao/",
+      "w": 1.0,
+      "kind": "both"
+    },
+    {
+      "a": "https://blog.lambert.wang/2025/11/23/20251123-Apart/",
+      "b": "https://blog.lambert.wang/2026/11/22/2026-11-22-midlife-anxiety-and-ai-anxiety/",
+      "w": 0.68,
+      "kind": "both"
+    },
+    {
+      "a": "https://reader.lambert.wang/2025/ChipWar.html",
+      "b": "https://reader.lambert.wang/2025/Flow.html",
+      "w": 1,
+      "kind": "community"
+    },
+    {
+      "a": "https://reader.lambert.wang/2025/ChipWar.html",
+      "b": "https://reader.lambert.wang/2025/Renzhijuexing.html",
+      "w": 1,
+      "kind": "community"
+    },
+    {
+      "a": "https://reader.lambert.wang/2025/Flow.html",
+      "b": "https://reader.lambert.wang/2025/Renzhijuexing.html",
+      "w": 1.0,
+      "kind": "both"
+    }
+  ]
+}
